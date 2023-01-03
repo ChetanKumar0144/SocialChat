@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SocialChat/index.html/static/css/main.44f8a803.css",
-    "main.js": "/SocialChat/index.html/static/js/main.4a8914aa.js",
-    "index.html": "/SocialChat/index.html/index.html",
-    "main.44f8a803.css.map": "/SocialChat/index.html/static/css/main.44f8a803.css.map",
-    "main.4a8914aa.js.map": "/SocialChat/index.html/static/js/main.4a8914aa.js.map"
+    "main.css": "/SocialChat/static/css/main.44f8a803.css",
+    "main.js": "/SocialChat/static/js/main.4a8914aa.js",
+    "index.html": "/SocialChat/index.html",
+    "main.44f8a803.css.map": "/SocialChat/static/css/main.44f8a803.css.map",
+    "main.4a8914aa.js.map": "/SocialChat/static/js/main.4a8914aa.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8a803.css",
